@@ -10476,11 +10476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DATN_VoThiQuynh_2021604331\\DATN_2021607554\\CafeShop\\CafeShop.csproj",
+      "projectUniqueName": "E:\\DATN\\VoThiQuynh\\DATN_VTQ_2021604331\\DATN_VTQ_2021604331\\CafeShop\\CafeShop.csproj",
       "projectName": "CafeShop",
-      "projectPath": "E:\\DATN_VoThiQuynh_2021604331\\DATN_2021607554\\CafeShop\\CafeShop.csproj",
+      "projectPath": "E:\\DATN\\VoThiQuynh\\DATN_VTQ_2021604331\\DATN_VTQ_2021604331\\CafeShop\\CafeShop.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "E:\\DATN_VoThiQuynh_2021604331\\DATN_2021607554\\CafeShop\\obj\\",
+      "outputPath": "E:\\DATN\\VoThiQuynh\\DATN_VTQ_2021604331\\DATN_VTQ_2021604331\\CafeShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
